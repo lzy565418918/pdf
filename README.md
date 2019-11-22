@@ -27,3 +27,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Description
+This is an example based on the pdf.js plugin, which converts the file stream to a pdf and previews it on a web page.
